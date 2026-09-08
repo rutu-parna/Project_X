@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rutu-parna/Project_X/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rutu-parna/Project_X/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rutu-parna/Project_X/tree/master/0940-distinct-subsequences-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rutu-parna/Project_X/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rutu-parna/Project_X/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rutu-parna/Project_X/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rutu-parna/Project_X/tree/master/0940-distinct-subsequences-ii) |
 ## Hash Table
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/rutu-parna/Project_X/tree/master/3870-count-commas-in-range) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rutu-parna/Project_X/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rutu-parna/Project_X/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
