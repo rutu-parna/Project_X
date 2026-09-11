@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rutu-parna/Project_X/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [1211-queries-quality-and-percentage](https://github.com/rutu-parna/Project_X/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
