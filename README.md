@@ -58,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/rutu-parna/Project_X/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1211-queries-quality-and-percentage](https://github.com/rutu-parna/Project_X/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
