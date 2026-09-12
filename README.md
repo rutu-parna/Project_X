@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rutu-parna/Project_X/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rutu-parna/Project_X/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rutu-parna/Project_X/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rutu-parna/Project_X/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rutu-parna/Project_X/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rutu-parna/Project_X/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rutu-parna/Project_X/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1211-queries-quality-and-percentage](https://github.com/rutu-parna/Project_X/tree/master/1211-queries-quality-and-percentage) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rutu-parna/Project_X/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rutu-parna/Project_X/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
