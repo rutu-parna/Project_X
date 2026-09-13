@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rutu-parna/Project_X/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1211-queries-quality-and-percentage](https://github.com/rutu-parna/Project_X/tree/master/1211-queries-quality-and-percentage) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rutu-parna/Project_X/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Binary Search
 |  |
 | ------- |
