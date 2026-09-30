@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/rutu-parna/Project_X/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rutu-parna/Project_X/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0626-exchange-seats](https://github.com/rutu-parna/Project_X/tree/master/0626-exchange-seats) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/rutu-parna/Project_X/tree/master/1141-user-activity-for-the-past-30-days-i) |
