@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rutu-parna/Project_X/tree/master/0004-median-of-two-sorted-arrays) |
 | [0835-image-overlap](https://github.com/rutu-parna/Project_X/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rutu-parna/Project_X/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rutu-parna/Project_X/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rutu-parna/Project_X/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rutu-parna/Project_X/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rutu-parna/Project_X/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rutu-parna/Project_X/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rutu-parna/Project_X/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rutu-parna/Project_X/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rutu-parna/Project_X/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
