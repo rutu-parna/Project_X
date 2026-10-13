@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rutu-parna/Project_X/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/rutu-parna/Project_X/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/rutu-parna/Project_X/tree/master/0585-investments-in-2016) |
+| [0620-not-boring-movies](https://github.com/rutu-parna/Project_X/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/rutu-parna/Project_X/tree/master/0626-exchange-seats) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/rutu-parna/Project_X/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/rutu-parna/Project_X/tree/master/1204-last-person-to-fit-in-the-bus) |
